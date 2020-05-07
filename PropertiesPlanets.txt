@@ -1,0 +1,46 @@
+This file contains the information for planets that will be inserted in the animation. The format 
+to add a planet is as follows: "name", "mass:value", "Posx:value", "Posy:value", "Velx:value",
+"Vely:value", "radius:value" and "colour:#value". What is written before the colon can be changed
+to anything as it will be ignored. Make sure that the file ends with two blank lines.
+
+Sun
+Mass:1.989e+30
+Posx:0
+Posy:0
+Velx:0
+Vely:0
+radius:228e+8
+colour:#FFFF00
+Mercury
+Mass:3.285e+23
+Posx:5.79e+10
+Posy:0
+Velx:0
+Vely:47881.881869858
+radius:228e+7
+colour:#D2C1C1
+Venus
+Mass:4.867e+24
+Posx:108200000000
+Posy:0
+Velx:0
+Vely:35026.509633126
+radius:528e+7
+colour:#E2E2AF
+Earth
+Mass:5.972e+24
+Posx:1.5e+11
+Posy:0
+Velx:0
+Vely:29748.485675745
+radius:928e+7
+colour:#5073FF
+Mars
+Mass:6.4185e+23
+Posx:228e+9
+Posy:0
+Velx:0
+Vely:24129.208114037
+radius:828e+7
+colour:#EF5555
+
